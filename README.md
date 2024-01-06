@@ -6,7 +6,7 @@ This is the WebTech project of Nicolas D'Aviau de Ternay, Aymeric Moulet, and Fr
 
 ## Getting Started (2 ways)
 
-## 1) Access the Website 
+## 1) Access website 
 Click here: https://ece-webtech-2023-fall-gr01-08.vercel.app/
 
 ## 2) Locally
