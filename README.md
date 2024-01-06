@@ -6,10 +6,10 @@ This is the WebTech project of Nicolas D'Aviau de Ternay, Aymeric Moulet, and Fr
 
 ## Getting Started (2 ways)
 
-## 1) On the Website 
-Here : https://ece-webtech-2023-fall-gr01-08.vercel.app/
+## 1) Access the Website 
+Click here: https://ece-webtech-2023-fall-gr01-08.vercel.app/
 
-## 2) Localy
+## 2) Locally
 To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine:
@@ -84,9 +84,9 @@ Final note: Fredrik had some trouble with his GitHub, so he programmed through A
 
 
 
-## Author
-
+## Authors
 - Nicolas D'Aviau de Ternay
 - Aymeric Moulet
 - Fredrik Sarai
+  
 # WebTech
