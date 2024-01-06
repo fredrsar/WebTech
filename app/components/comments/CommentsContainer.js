@@ -3,6 +3,8 @@ import React, { useEffect, useState } from 'react';
 import { getCommentsData } from './CommentsData';
 import CommentForm from './CommentForm';
 import CommentCard from './CommentCard';
+import { FaArrowUp } from "react-icons/fa";
+
 
 
 const CommentsContainer = ({className, loggedInUserId}) => {
@@ -67,7 +69,7 @@ const CommentsContainer = ({className, loggedInUserId}) => {
     return (
         <div className={'${className}'}> 
             <CommentForm 
-                btnLabel="Comment" 
+                btnLabel={<FaArrowUp />}
                 formSubmitHandler={(value) => addCommentHandler(value)}
             />
             <div className='space-y-4 mt-8 '> 
