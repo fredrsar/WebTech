@@ -78,7 +78,7 @@ Comments: There are some back-end features that we didn't manage to do (for time
 
 Project Structure
 Grade: 16/20
-Comments: We respected the overall instructions and the frameworks structur. 
+Comments: We respected the overall instructions and the frameworks structure. 
 
 Final note: Fredrik had some trouble with his GitHub, so he programmed through Aymeric and Nicolas screen and sent them code, but this doesn´t show in the commit history for this reason. 
 
