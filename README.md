@@ -7,7 +7,7 @@ This is the WebTech project of Nicolas D'Aviau de Ternay, Aymeric Moulet, and Fr
 ## Getting Started (2 ways)
 
 ## 1) Access website 
-Click here: https://ece-webtech-2023-fall-gr01-08.vercel.app/
+Click here to access the webpage: https://ece-webtech-2023-fall-gr01-08.vercel.app/
 
 ## 2) Locally
 To run this project locally, follow these steps:
@@ -35,14 +35,14 @@ To run this project locally, follow these steps:
 
    To run the project, you have two options: using  `npm run dev` 
 
-## Recomended use
-1) Chose the theme you want
+## Recommended use
+1) Choose the theme you want
 ![White Theme](app/public/whiteTheme.png)
 ![BlackTheme](app/public/blackTheme.png)
 
-2) Create a user if you don't already have an account, a gravatar will be generate for you 
+2) Create a user. If you don not have an account, a gravatar will be generated for you 
 ![User](app/public/userDemo.png)
-3) Naviguate between the articles and enjoy the magic of Norway
+3) Navigate between articles and enjoy the magic of Norway
 
 ## Features
 
@@ -59,28 +59,24 @@ Supabase Project URL : https://nrqrwnrbmzbkkjrojady.supabase.co
 
 Overall Grade
 Grade: 16.5/20
-Comments: We are proud of our project, although we are aware some features could be added. If we had more time, we would make the comment-section work properly, and enable editing your own posts. Also we´d make an entire screen to display each post - just like you see in a blog.
+Comments: We are proud of our project, although we are aware some features could be added. If we had more time, we would make sure the comment-section worked properly. We would also enable editing of your own posts. Also we´d give each post an entire-screen display - just like you see in a blog.
 
 Project Structure
 Grade: 16/20
-Comments: We respected the overall instructions and the frameworks structures, we pay attention to 
+Comments: We respected the overall instructions and the frameworks structures. 
 
 Naming Convention
 Grade: 15/20
-Comments: We try our best to respect the naming conventions but we know we made some mistakes
+Comments: We tried our best to respect the naming conventions, though we know we made some mistakes.
 
 Front-End (Estetic)
 Grade: 18/20
-Comments:  We think the website is beautiful and has an even greater potential. We´re giving ourselves 18/20 because the posts need some work and we could also apply some final touches overall. We spend a lot of time on TailawindCSS in order to have a beautiful and dynamic interface.
+Comments:  We think the website is beautiful and has an even greater potential. We´re giving ourselves 18/20 because the posts need some work and we could also apply some final touches overall. We spend a lot of time on Tailwind CSS to create a beautiful and dynamic interface.
 
 Back-End 16/20 
-Comments: There are some back-end features that we didn't manage to do (for time reason).
+Comments: There are some back-end features we didn't manage to implement due to the time constraint.
 
-Project Structure
-Grade: 16/20
-Comments: We respected the overall instructions and the frameworks structure. 
-
-Final note: Fredrik had some trouble with his GitHub, so he programmed through Aymeric and Nicolas screen and sent them code, but this doesn´t show in the commit history for this reason. 
+Final note: Fredrik had some trouble with his GitHub, so he programmed through Aymeric and Nicolas´ screen and sent them code through Messenger. His code doesn´t show in the commit history for this reason. 
 
 
 
